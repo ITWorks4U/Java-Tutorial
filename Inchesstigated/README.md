@@ -1,6 +1,9 @@
-# Chess
+# Inchesstigated
 
-For module "WW1" a chess game is going to create. This game holds algroithms,
-it's implementations and will also hold a graphical user interface.
+The game chess written in Java 8 (+ Java Swing) for the module "WW1" in 2019 of the Hochschule Mittweida - University of Applied Sciences
+In this game you can play the game chess, where its content is basic, which means, there is no AI or a network interface. There was not
+enough time to implement such features.
 
-This application will be written in Java + JSwing.
+Copyright:
+Hochschule Mittweida - University of Applied Sciences
+All rights reserved.
